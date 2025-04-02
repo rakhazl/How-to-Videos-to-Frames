@@ -26,6 +26,6 @@ def video_to_frames(video_path, output_folder):
     print(f"Total frames extracted: {frame_count}")
 
 # Contoh penggunaan
-video_path = "D:\\Rakha-Camera-Vision\\1. Dokomentasi\\Trial 5 - Fix Posisi Run.mp4"        # Ganti dengan path video kamu
-output_folder = 'output_frames_trial5'        # Folder output untuk menyimpan frame
+video_path = "path_your_videos# Ganti dengan path video kamu
+output_folder = 'your_folder_output'        # Folder output untuk menyimpan frame
 video_to_frames(video_path, output_folder)
